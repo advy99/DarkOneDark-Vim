@@ -129,6 +129,12 @@
 
 
   exec "hi Structure guifg=".s:dark_purple
+  exec "hi Define guifg=".s:cyan
+  exec "hi Macro guifg=".s:cyan
+
+  exec "hi cppModifier guifg=".s:dark_purple
+  exec "hi Operator guifg=".s:dark_purple
+
 
   """""""""""""""""""""""
   " Highlighting Groups "
