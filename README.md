@@ -1,11 +1,12 @@
 # Dark One Dark Vim
 
-Vim theme based in [mgovea Atom syntax theme](https://github.com/mgovea/dark-one-dark-syntax)
+**Vim theme based in [mgovea's Atom syntax theme](https://github.com/mgovea/dark-one-dark-syntax)**
 
+I intend to port both the UI and Syntax themes to Vim.
+As of now, this is an extremely WIP project.
 
-I pretend to port both UI and Syntax theme to Vim.
+## Why Dark One Dark?
 
-At this moment is a very very WIP project.
-
-
-This started as I usually use Atom as text editor, but after a few trys definitely moved to Vim. The only one thing I missed was the UI and Syntax themes, therefore, I tried to port Dark One Dark using [Themer](themer.dev) but was missing a lot of things, so finally, using the base of Themer, I'm getting in to this mess.
+I used to work with Atom as my main text editor, but definitely moved to Vim after few attempts.
+When I made the switch, I really missed the UI and Syntax themes, so I tried to port Dark One Dark using [Themer](themer.dev), but was missing lots of features.
+However, I used Themer's base file to get hands dirty in this mess!
