@@ -98,7 +98,6 @@
 
 
 
-  exec "hi myGroup guifg=".s:cyan
   exec "hi Comment guifg=".s:guishade2
   exec "hi Comment ctermfg=".s:ctermshade2
   exec "hi Constant guifg=".s:brown
@@ -128,37 +127,8 @@
   exec "hi String guifg=".s:green
   exec "hi Boolean guifg=".s:red
 
-  " GitGutter
 
-  exec "hi GitGutterAdd guifg=".s:green
-  exec "hi GitGutterAdd ctermfg=".s:ctermaccent3
-  exec "hi GitGutterChange guifg=".s:beige
-  exec "hi GitGutterChange ctermfg=".s:ctermaccent2
-  exec "hi GitGutterChangeDelete guifg=".s:beige
-  exec "hi GitGutterChangeDelete ctermfg=".s:ctermaccent2
-  exec "hi GitGutterDelete guifg=".s:pink_red
-  exec "hi GitGutterDelete ctermfg=".s:ctermaccent0
-
-  " fugitive
-
-  exec "hi gitcommitComment guifg=".s:guishade3
-  exec "hi gitcommitComment ctermfg=".s:ctermshade3
-  exec "hi gitcommitOnBranch guifg=".s:guishade3
-  exec "hi gitcommitOnBranch ctermfg=".s:ctermshade3
-  exec "hi gitcommitHeader guifg=".s:guishade5
-  exec "hi gitcommitHeader ctermfg=".s:ctermshade5
-  exec "hi gitcommitHead guifg=".s:guishade3
-  exec "hi gitcommitHead ctermfg=".s:ctermshade3
-  exec "hi gitcommitSelectedType guifg=".s:green
-  exec "hi gitcommitSelectedType ctermfg=".s:ctermaccent3
-  exec "hi gitcommitSelectedFile guifg=".s:green
-  exec "hi gitcommitSelectedFile ctermfg=".s:ctermaccent3
-  exec "hi gitcommitDiscardedType guifg=".s:beige
-  exec "hi gitcommitDiscardedType ctermfg=".s:ctermaccent2
-  exec "hi gitcommitDiscardedFile guifg=".s:beige
-  exec "hi gitcommitDiscardedFile ctermfg=".s:ctermaccent2
-  exec "hi gitcommitUntrackedFile guifg=".s:pink_red
-  exec "hi gitcommitUntrackedFile ctermfg=".s:ctermaccent0
+  exec "hi Structure guifg=".s:dark_purple
 
   """""""""""""""""""""""
   " Highlighting Groups "
