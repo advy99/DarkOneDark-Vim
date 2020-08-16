@@ -56,7 +56,7 @@
   let s:beige = "#c18401"
   let s:green = "#50a14f"
   let s:cyan = "#0184bc"
-  let s:purple = "#4078f2"
+  let s:purple = "#a626a4"
   let s:dark_purple = "#a626a4"
   let s:red = "#ca1243"
   let s:ctermshade0 = 231
@@ -132,8 +132,10 @@
   exec "hi Define guifg=".s:cyan
   exec "hi Macro guifg=".s:cyan
 
+
   exec "hi cppModifier guifg=".s:dark_purple
-  exec "hi Operator guifg=".s:dark_purple
+  exec "hi cppSTLnamespace guifg=".s:guishade6." guibg=".s:guishade0
+  " exec "hi Operator guifg=".s:dark_purple
 
 
   """""""""""""""""""""""
