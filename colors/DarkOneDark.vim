@@ -9,7 +9,7 @@
   let s:guishade3 = "#5c6370"
   let s:guishade4 = "#636d83"
   let s:guishade5 = "#828997"
-  let s:guishade6 = "#d6dae0" " texto
+  let s:guishade6 = "#e8eaed" " texto
   let s:guishade7 = "#abb2bf"
   let s:pink_red = "#e06c75"
   let s:light_blue = "#67bafe"
