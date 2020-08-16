@@ -116,7 +116,7 @@
   exec "hi Special ctermfg=".s:ctermaccent4
   exec "hi Underlined guifg=".s:purple
   exec "hi Underlined ctermfg=".s:ctermaccent5
-  exec "hi Error guifg=".s:pink_red." guigb=".s:guishade0
+  exec "hi Error guifg=".s:pink_red." guibg=".s:guishade0
   exec "hi Warning guifg=".s:brown
   exec "hi Todo guifg=".s:pink_red." guibg=".s:guishade1
   exec "hi Todo ctermfg=".s:ctermaccent0." ctermbg=".s:ctermshade1
