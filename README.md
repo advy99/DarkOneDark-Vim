@@ -15,6 +15,9 @@ However, I used Themer's base file to get hands dirty in this mess!
 
 None, but for better syntax highlighting use [Polyglot](https://github.com/sheerun/vim-polyglot) and in the c.vim syntax file of Polyglot uncomment the additional optional highlighting.
 
+
+## Suggestions
+
 I also added the next line to my Polyglot cpp.vim:
 
 ```
