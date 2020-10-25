@@ -15,6 +15,10 @@ However, I used Themer's base file to get hands dirty in this mess!
 
 None, but for better syntax highlighting use [Polyglot](https://github.com/sheerun/vim-polyglot) and in the c.vim syntax file of Polyglot uncomment the additional optional highlighting.
 
+## Warning
+
+Light theme is not supported.
+
 
 ## Suggestions
 
@@ -30,11 +34,11 @@ As I like to highlight the const keyword as a statement.
 Also a good idea is to enable the cpp highlight variables in Polyglot adding this in your .vimrc:
 
 ```
-let g:cpp_class_decl_highlight = 1                                                          
-let g:cpp_class_scope_highlight = 1                                                         
-let g:cpp_member_variable_highlight = 1                                                     
-let g:cpp_posix_standard = 1                                                                
-let g:cpp_concepts_highlight = 1                                                            
+let g:cpp_class_decl_highlight = 1
+let g:cpp_class_scope_highlight = 1
+let g:cpp_member_variable_highlight = 1
+let g:cpp_posix_standard = 1
+let g:cpp_concepts_highlight = 1
 let g:cpp_experimental_template_highlight = 1
 
 ```
