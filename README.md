@@ -3,7 +3,6 @@
 **Vim theme based in [mgovea's Atom syntax theme](https://github.com/mgovea/dark-one-dark-syntax)**
 
 I intend to port both the UI and Syntax themes to Vim.
-As of now, this is an extremely WIP project.
 
 ## Why Dark One Dark?
 
@@ -17,6 +16,7 @@ None, but for better syntax highlighting use [Polyglot](https://github.com/sheer
 
 ## Warning
 
+As of now, this is an extremely WIP project.
 Light theme is not supported.
 
 
