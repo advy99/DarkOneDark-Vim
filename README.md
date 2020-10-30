@@ -16,8 +16,8 @@ None, but for better syntax highlighting use [Polyglot](https://github.com/sheer
 
 ## Warning
 
-As of now, this is an extremely WIP project.
-Light theme is not supported.
+- As of now, this is an extremely WIP project.
+- Light theme is not supported.
 
 
 ## Suggestions
