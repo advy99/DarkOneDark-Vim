@@ -1,7 +1,7 @@
   """""""""""""""""""""""""""""""""""""""""""""""""""""
   " Set dark background. Only dark theme is supported "
   """""""""""""""""""""""""""""""""""""""""""""""""""""
-  set background = dark
+  set background=dark
 
   let s:guishade0 = "#1b1d22"
   let s:guishade1 = "#393e48"
