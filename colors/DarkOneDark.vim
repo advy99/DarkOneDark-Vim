@@ -82,6 +82,8 @@
   exec "hi Function guifg=".s:light_blue
   exec "hi Function ctermfg=".s:ctermaccent1
 
+  exec "hi ALEWarningSign guifg=".s:brown." guibg=".s:guishade0
+
 
   exec "hi String guifg=".s:green
   exec "hi Boolean guifg=".s:red
