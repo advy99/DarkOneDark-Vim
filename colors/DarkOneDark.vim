@@ -59,6 +59,7 @@
   let s:purple = "#a626a4"
   let s:dark_purple = "#a626a4"
   let s:red = "#ca1243"
+  let s:brown = "#de9959"
   let s:ctermshade0 = 231
   let s:ctermshade1 = 252
   let s:ctermshade2 = 247
