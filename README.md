@@ -17,7 +17,7 @@ None, but for better syntax highlighting use [Polyglot](https://github.com/sheer
 ## Warning
 
 - As of now, this is an extremely WIP project.
-- Light theme is not supported.
+- Light theme is WIP: In a feuture, this repo will only contain dark theme and light theme will be hosted in another repo.
 
 
 ## Suggestions
