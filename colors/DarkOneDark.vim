@@ -1,7 +1,8 @@
   """""""""""""""""""""""""""""""""""""""""""""""""""""
   " Set dark background. Only dark theme is supported "
   """""""""""""""""""""""""""""""""""""""""""""""""""""
-  set background=dark
+
+  if &background == 'dark'
 
   let s:guishade0 = "#1b1d22"
   let s:guishade1 = "#393e48"
@@ -36,6 +37,48 @@
   let s:ctermaccent5 = 177
   let s:ctermaccent6 = 3
   let s:ctermaccent7 = 116
+
+
+  endif
+
+  if &background == 'light'
+
+  let s:guishade0 = "#fafafa"
+  let s:guishade1 = "#393e48"
+  let s:guishade2 = "#4b515c"
+  let s:guishade3 = "#5c6370"
+  let s:guishade4 = "#636d83"
+  let s:guishade5 = "#828997"
+  let s:guishade6 = "#51535d" " texto
+  let s:guishade7 = "#abb2bf"
+  let s:pink_red = "#e06c75"
+  let s:light_blue = "#67bafe"
+  let s:beige = "#e5c07b"
+  let s:green = "#9cd175"
+  let s:cyan = "#5edede"
+  let s:purple = "#d37cee"
+  let s:dark_purple = "#c678dd"
+  let s:red = "#ee6060"
+  let s:brown = "#de9959"
+  let s:ctermshade0 = 234
+  let s:ctermshade1 = 238
+  let s:ctermshade2 = 239
+  let s:ctermshade3 = 102
+  let s:ctermshade4 = 103
+  let s:ctermshade5 = 245
+  let s:ctermshade6 = 247
+  let s:ctermshade7 = 249
+  let s:ctermaccent0 = 1
+  let s:ctermaccent1 = 7
+  let s:ctermaccent2 = 13
+  let s:ctermaccent3 = 150
+  let s:ctermaccent4 = 116
+  let s:ctermaccent5 = 177
+  let s:ctermaccent6 = 3
+  let s:ctermaccent7 = 116
+
+
+  endif
 
 
   highlight clear
